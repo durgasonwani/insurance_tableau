@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="Insurance-Tableau-Dashboard-Screenshot " src="https://github.com/user-attachments/assets/fdde0160-98fc-46b3-b9ec-21898b28974d" /># 📊 Insurance Tableau Dashboard
+# 📊 Insurance Tableau Dashboard
 
 ## 📌 Project Overview
 
@@ -94,9 +94,7 @@ Users can filter the dashboard using:
 
 ## 🖼️ Dashboard Preview
 
-(![Uploading Insurance-Tableau-Dashboard-Screenshot .png…])
-
- 
+![Insurance Tableau Dashboard](Insurance-Tableau-Dashboard-Screenshot%20.png)
 
 ---
 
