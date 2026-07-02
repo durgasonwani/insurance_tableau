@@ -94,7 +94,8 @@ Users can filter the dashboard using:
 
 ## 🖼️ Dashboard Preview
 
-Insurance-Tableau-Dashboard-Screenshot/PNG File (.png) 
+![Uploading Insurance-Tableau-Dashboard-Screenshot .png…]()
+ 
 
 ---
 
