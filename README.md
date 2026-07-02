@@ -94,7 +94,7 @@ Users can filter the dashboard using:
 
 ## 🖼️ Dashboard Preview
 
-![Insurance Tableau Dashboard](Insurance-Tableau-Dashboard-Screenshot%20.png)
+Insurance-Tableau-Dashboard-Screenshot/PNG File (.png) 
 
 ---
 
